@@ -22,7 +22,7 @@
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "multiselect-dropdown-react": "^1.0.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "popmotion": "^8.6.8",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
